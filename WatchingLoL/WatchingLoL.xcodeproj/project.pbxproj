@@ -473,6 +473,7 @@
 				12ED33A717B2D4680062D13A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		12ED33A817B2D4680062D13A /* Build configuration list for PBXNativeTarget "WatchingLoLTests" */ = {
 			isa = XCConfigurationList;
@@ -481,6 +482,7 @@
 				12ED33AA17B2D4680062D13A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
