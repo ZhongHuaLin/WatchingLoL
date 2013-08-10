@@ -199,16 +199,14 @@
 		12ED336417B2D4680062D13A = {
 			isa = PBXGroup;
 			children = (
-				126AFE9B17B5F57600AD5799 /* Security.framework */,
-				126AFE9917B5F56B00AD5799 /* SystemConfiguration.framework */,
-				126AFE8617B5F00700AD5799 /* YouTubeAnalytics */,
-				126AFD3717B5EFFD00AD5799 /* YouTube */,
 				126AFD2617B5EFAA00AD5799 /* GTL.xcodeproj */,
 				12ED33AB17B2D60B0062D13A /* ECSlidingViewController */,
 				12ED337617B2D4680062D13A /* WatchingLoL */,
 				12ED339A17B2D4680062D13A /* WatchingLoLTests */,
 				12ED336F17B2D4680062D13A /* Frameworks */,
 				12ED336E17B2D4680062D13A /* Products */,
+				126AFD3717B5EFFD00AD5799 /* YouTube */,
+				126AFE8617B5F00700AD5799 /* YouTubeAnalytics */,
 			);
 			sourceTree = "<group>";
 		};
@@ -224,6 +222,8 @@
 		12ED336F17B2D4680062D13A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				126AFE9917B5F56B00AD5799 /* SystemConfiguration.framework */,
+				126AFE9B17B5F57600AD5799 /* Security.framework */,
 				12ED337017B2D4680062D13A /* UIKit.framework */,
 				12ED337217B2D4680062D13A /* Foundation.framework */,
 				12ED337417B2D4680062D13A /* CoreGraphics.framework */,
